@@ -4,4 +4,4 @@ Each folder holds the collection of data parsed from a specific source. Feel fre
 
 ## Current collections
 - PAHO: .csv files created by parsing the .pdf reports at [this link](https://www.paho.org/en/technical-reports?topic=4922&d[min]=&d[max]=&page=1) 
-- WORLDOMETERS: .csv files created from data at [this repo (credits to bin0x00)](https://github.com/bin0x00/covid-19)
+- WORLDOMETERS: .csv files created from data at [this repo](https://github.com/bin0x00/covid-19). All credits to bin0x00
